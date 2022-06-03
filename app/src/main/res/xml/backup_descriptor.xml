@@ -1,0 +1,6 @@
+<?xml version ="1.0" encoding ="utf-8"?><!--  Learn More about how to use App Actions: https://developer.android.com/guide/actions/index.html -->
+<full-backup-content>
+    <include
+        domain="sharedpref"
+        path="com.example.backupdemo.PREF_USER_NAME.xml" />
+</full-backup-content>
